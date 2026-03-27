@@ -1,3 +1,6 @@
+
+- **My first fullstack project (MERN)**
+
 # Mini FullStack CRUD App
 
 A full-stack CRUD application built with the MERN stack (MongoDB, Express.js, React, Node.js) after completing MERN stack studies, with a focus on React and Redux for the frontend. This project demonstrates user authentication, profile management, and an admin panel for managing users.
