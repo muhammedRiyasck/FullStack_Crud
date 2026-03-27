@@ -1,5 +1,5 @@
 
-- **My first fullstack project (MERN)**
+ **My first fullstack project (MERN)**
 
 # Mini FullStack CRUD App
 
